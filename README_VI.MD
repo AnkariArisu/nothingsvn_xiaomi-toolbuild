@@ -169,7 +169,7 @@ Xin gửi lời cảm ơn chân thành đến tất cả mọi người đã gó
 | [MaiAFK](https://t.me/maiphp) | Ý tưởng website & code web server |
 | [Mốc](https://t.me/jerryx0x) | Phương pháp mod & build |
 | [summert](https://t.me/ntai15) | Hỗ trợ code & giải quyết vấn đề |
-| [BHLNK](https://t.me/bhlnk) | Phương pháp spoof cho AI fixing |
+| [zuri1503](https://t.me/zuri1503) | Hỗ trợ code & giải quyết vấn đề |
 
 ### 💰 Nhà tài trợ
 

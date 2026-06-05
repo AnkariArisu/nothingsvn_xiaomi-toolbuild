@@ -169,6 +169,7 @@ A huge thank you to everyone who made this project possible:
 | [MaiAFK](https://t.me/maiphp) | Website concept & web server code |
 | [Mốc](https://t.me/jerryx0x) | Mod & build methods |
 | [summert](https://t.me/ntai15) | Coding support & issue resolution |
+| [zuri1503](https://t.me/zuri1503) | Coding support & issue resolution |
 
 ### 💰 Sponsors
 
